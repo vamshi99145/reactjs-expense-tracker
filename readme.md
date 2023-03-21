@@ -4,7 +4,7 @@
 * Statics on each month
   * Line chart daily expenses
   * Donut chart for categories
-* Intuitive list view
+* Intuitive list view of all months
 
 # Creadits
 * [material-ui](https://github.com/mui/material-ui "material-ui")
